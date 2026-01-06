@@ -1,0 +1,30 @@
+## 🛡️ Cyber Defense and Threat Hunting Training (GuideM)
+
+I completed a **five-day hands-on Cyber Defense and Threat Hunting training** conducted by **GuideM Training**, 
+focused on **SOC operations, malware analysis, incident response, and threat hunting**.
+
+The program emphasized practical blue-team skills and real-world defensive scenarios, 
+concluding with a **Capture-the-Flag (CTF)** exercise that integrated all covered topics.
+
+### 📚 Training Coverage
+- **Day 1 – SOC and Malware Basics**
+  - SOC workflows, alert triage, and malware behavior analysis
+- **Day 2 – Incident Response**
+  - Incident response lifecycle, playbooks, and case handling
+- **Day 3 – Intrusion and Malicious Document Analysis**
+  - Phishing analysis, document-based threats, and IOC identification
+- **Day 4 – Threat Hunting and Detection Engineering**
+  - Proactive threat hunting, log correlation, and detection logic
+- **Day 5 – Capture the Flag**
+  - Hands-on investigation and analysis using blue-team techniques
+
+### 🧠 Key Takeaways
+- Strengthened understanding of **SOC and blue-team operations**
+- Improved skills in **incident response and threat analysis**
+- Gained experience in **threat hunting and detection concepts**
+- Applied defensive security knowledge in a **hands-on CTF environment**
+
+**Instructors & Contributors**
+- Sir Micko Espanillo – Lead Instructor  
+- Sir Richard Mamaril – Incident Response Session  
+- Sir Renzon Cruz – Training Lab Development
