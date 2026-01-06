@@ -6,6 +6,7 @@ focused on **SOC operations, malware analysis, incident response, and threat hun
 The program emphasized practical blue-team skills and real-world defensive scenarios, 
 concluding with a **Capture-the-Flag (CTF)** exercise that integrated all covered topics.
 
+
 ### 📚 Training Coverage
 - **Day 1 – SOC and Malware Basics**
   - SOC workflows, alert triage, and malware behavior analysis
@@ -23,6 +24,9 @@ concluding with a **Capture-the-Flag (CTF)** exercise that integrated all covere
 - Improved skills in **incident response and threat analysis**
 - Gained experience in **threat hunting and detection concepts**
 - Applied defensive security knowledge in a **hands-on CTF environment**
+
+**Batch 42**
+- CDTH 42
 
 **Instructors & Contributors**
 - Sir Micko Espanillo – Lead Instructor  
